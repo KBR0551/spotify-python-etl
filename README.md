@@ -16,3 +16,11 @@ You will need to create a copy from the .env.example and call it .env. There you
 Here we will use the Spotify API, i.e extract data by making API calls, you will need client_id & client_secret to generate accesss token, the genrated access token will be used to make a web API call and retrive required data.
 
 Details on how to setup cleint_id & client_secret can be found in this link: https://developer.spotify.com/documentation/web-api/tutorials/getting-started
+
+# Code directories and file
+1) utility- contains commonly used scripts like token generator etc.
+2) data_extract- contains scripts to extract from data endpoints.
+3) tests- contains pytests
+4) dags- Airflow dags for orchestration
+
+# Execution Steps
