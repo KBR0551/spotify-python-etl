@@ -17,7 +17,7 @@ Here we will use the Spotify API, i.e extract data by making API calls, you will
 
 Details on how to setup cleint_id & client_secret can be found in this link: https://developer.spotify.com/documentation/web-api/tutorials/getting-started
 
-# Code directories and file
+# Code directories
 1) utility- contains commonly used scripts like token generator etc.
 2) data_extract- contains scripts to extract from data endpoints.
 3) tests- contains pytests
