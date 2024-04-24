@@ -23,6 +23,9 @@ Details on how to setup cleint_id & client_secret can be found in this link: htt
 3) tests- contains pytests
 4) dags- Airflow dags for orchestration
 
+#Architecture
+
+
 # Data Model
 
 <img width="934" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/7464dd1c-9d89-44cc-8aa0-c2b902a48ab3">
