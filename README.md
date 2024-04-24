@@ -32,4 +32,4 @@ Details on how to setup cleint_id & client_secret can be found in this link: htt
 3) tests- contains pytests
 4) dags- Airflow dags for orchestration
 
-# Execution Steps
+# Setup and Execution Steps
