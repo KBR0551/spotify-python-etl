@@ -20,11 +20,12 @@ Details on how to setup cleint_id & client_secret can be found in this link: htt
 # Architecture
 <img width="858" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/41c1f332-c5ee-4378-8210-5a9b6e162d75">
 
-
-
 # Data Model
 
 <img width="934" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/7464dd1c-9d89-44cc-8aa0-c2b902a48ab3">
+
+# Airflow Schedule run
+<img width="657" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/3c3221ae-4c46-4dfa-9782-e6b8947d5b6e">
 
 # Code directories
 1) utility- contains commonly used scripts like token generator etc.
