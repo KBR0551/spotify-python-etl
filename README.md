@@ -28,7 +28,7 @@ Details on how to setup cleint_id & client_secret can be found in this link: htt
 <img width="657" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/3c3221ae-4c46-4dfa-9782-e6b8947d5b6e">
 
 # Code directories
-1) utility- contains commonly used scripts like token generator etc.
+1) utility- contains commonly used scripts like token generator,table load etc.
 2) data_extract- contains scripts to extract from data endpoints.
 3) tests- contains pytests
 4) dags- Airflow dags for orchestration
