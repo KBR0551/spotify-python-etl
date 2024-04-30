@@ -45,5 +45,6 @@ Details on how to setup cleint_id & client_secret can be found in this link: htt
 8. open a new terminal and lauch airflow webserver(UI) by running `airflow webserver`after it's lauched connect to the host '0.0.0.0:8080' via a browser and you will see 'TOP_20_ARTISTS_ETL' DAG executing.
 9. Once DAG completes you will see data in the below tables.
  <img width="235" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/1afa32ad-3134-4a13-b60a-856163adb055">
+ 
 10. Analyze data using sql 
 
