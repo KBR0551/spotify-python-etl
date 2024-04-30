@@ -46,5 +46,7 @@ Details on how to setup cleint_id & client_secret can be found in this link: htt
 9. Once DAG completes you will see data in the below tables.
  <img width="235" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/1afa32ad-3134-4a13-b60a-856163adb055">
  
-10. Analyze data using sql 
+10. Analyze data using sql
+ <img width="1060" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/ddabbe7b-d0a4-4cb5-adce-0dcd36309ea7">
+
 
