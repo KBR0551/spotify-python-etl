@@ -41,7 +41,7 @@ Details on how to setup cleint_id & client_secret can be found in this link: htt
    is in artists_db_init directory.
 5. Copy the .env.example and call it .env
 6. Change the variables for the ones that you need: CLIENT_ID, CLIENT_SECRET from Spotify, HOST, PORT,etc.
-7. open a terminal export AIRFLOW_HOME variable export AIRFLOW_HOME='<Directory where airflow.cfg is avaliable>' and create a airflow user by running `airflow users create --role Admin --username <user_name> --email <email@email.com> --firstname <first_name> --lastname <last_name> --password <password>` and lauch airflow scheduler by running `airflow scheduler` command
+7. open a terminal export AIRFLOW_HOME variable export AIRFLOW_HOME=`<Directory where airflow.cfg is avaliable>` and create a airflow user by running `airflow users create --role Admin --username <user_name> --email <email@email.com> --firstname <first_name> --lastname <last_name> --password <password>` and lauch airflow scheduler by running `airflow scheduler` command
 8. open a new terminal and lauch airflow webserver(UI) by running `airflow webserver`after it's lauched connect to the host '0.0.0.0:8080' via a browser and you will see 'TOP_20_ARTISTS_ETL' DAG executing.
 9. Once DAG completes you will see data in the below tables.
  <img width="235" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/1afa32ad-3134-4a13-b60a-856163adb055">
