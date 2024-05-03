@@ -34,7 +34,8 @@ Details on how to setup cleint_id & client_secret can be found in this link: htt
 2) data_extract- contains scripts to extract from data endpoints.
 3) tests- contains pytests
 4) dags- Airflow dags for orchestration
-Note: Since the resuable code modules package is in different directory than the other code we need let python know about it other wise we will get 'no module found' error, one way to overcome this error is by adding a new file to your virtual environment `lib/site-packages/<custom_modules.pth>` and include the path of the root direcoty of the `utility` directory 
+
+#Note:# Since the resuable code modules package is in different directory than the other code we need let python know about it other wise we will get 'no module found' error, one way to overcome this error is by adding a new file to your virtual environment `lib/site-packages/<custom_modules.pth>` and include the path of the root direcoty of the `utility` directory 
 There are other ways as well.
 
 # Setup and Execution Steps
