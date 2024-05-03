@@ -27,6 +27,8 @@ Details on how to setup cleint_id & client_secret can be found in this link: htt
 # Airflow Schedule run
 <img width="657" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/3c3221ae-4c46-4dfa-9782-e6b8947d5b6e">
 
+<img width="866" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/ad414a5c-206d-46f7-b941-68c5cbbb5f01">
+
 # Code directories
 1) utility- contains commonly used scripts like token generator,table load etc.
 2) data_extract- contains scripts to extract from data endpoints.
