@@ -54,4 +54,5 @@ There are other ways as well.
 10. Analyze data using sql
  <img width="1060" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/ddabbe7b-d0a4-4cb5-adce-0dcd36309ea7">
 
-
+# Next:
+This is one such true on-premis ETL Project, we can modernize this to run in docker containers, deploy it in cloud or use cloud services to run in cloud.
