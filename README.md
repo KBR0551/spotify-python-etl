@@ -15,7 +15,7 @@ You will need to create a copy from the .env.example and call it .env. There you
 # Spotify API
 Here we will use the Spotify API, i.e extract data by making API calls, you will need client_id & client_secret to generate accesss token, the genrated access token will be used to make a web API call and retrive required data.
 
-Details on how to setup cleint_id & client_secret can be found in this link: https://developer.spotify.com/documentation/web-api/tutorials/getting-started
+Details on how to setup client_id & client_secret can be found in this link: https://developer.spotify.com/documentation/web-api/tutorials/getting-started
 
 # Architecture
 <img width="858" alt="image" src="https://github.com/KBR0551/spotify-python-etl/assets/98926998/41c1f332-c5ee-4378-8210-5a9b6e162d75">
